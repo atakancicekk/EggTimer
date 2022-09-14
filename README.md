@@ -3,7 +3,9 @@
 
 # Egg Timer
 
-A beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. 
+A beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs. After your eggs are ready, an alarm will sound.
+
+## Enjoy your eggs ! 🙃
 
 <br>
 <br>
