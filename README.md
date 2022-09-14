@@ -9,7 +9,7 @@ A beautiful egg timer app to boil your eggs to perfection depending on how you p
 <br>
 
 
-<img src="https://user-images.githubusercontent.com/55702254/190244647-66894160-bea3-43f6-989a-7b52d29a7328.png" width="200"><img src="https://user-images.githubusercontent.com/55702254/190244651-6c364ffb-2b27-4e0d-88ce-f310f602fcaa.png" width="200">
+<img src="https://user-images.githubusercontent.com/55702254/190244647-66894160-bea3-43f6-989a-7b52d29a7328.png" width="200"> &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/55702254/190244651-6c364ffb-2b27-4e0d-88ce-f310f602fcaa.png" width="200">
 
 
 <br>
